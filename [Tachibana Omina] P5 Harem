@@ -1,0 +1,25 @@
+{
+   "title":"[Tachibana Omina] P5 Harem",
+   "description":"",
+   "author":"Tachibana Omina",
+   "artist":"Tachibana Omina",
+   "cover":"https://i.imgur.com/tEklcEh.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/a9paTuY"
+         },
+         "last_updated":1624606143,
+         "title":"P5 Harem",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8Qfpc5K"
+         },
+         "last_updated":1624606143,
+         "title":"P5 Harem - Futaba Chapter",
+         "volume":"2"
+      }
+   }
+}
